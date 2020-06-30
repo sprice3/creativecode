@@ -1,10 +1,9 @@
-# FrankenPoem
+# Wonder
 
-This project is a poem generator in Python. To see it run, download the [python script](frankpoem.py) and run it with Python or in a notebook. It will require [TextBlob](https://textblob.readthedocs.io), so make sure you've installed that first. 
+This project is a poem generator in Python. To see it run, download the ADD SCRIPT.  
 
-This script also assumes you have a file called "frankenstein.txt" in the same directory that the script runs from. The contents of that file can be anything you want to appropriate from. If you have different files, you can just change the filename reference on line 9 of the script.
+This script is about emotions and wondering about the different feelings a person can have. I didn't mean for the poem to be as deep as it ended up being but that what I ended up with. I think it probably had to do with the state of our world right now and everything going on in it. 
 
-What this script will do is read the input file, parse it for parts of speech, then output a stanza of something that hopefully resembles poetry. The poetic quality of that output will vary widely based on the input. 
+I think my poem is about someone who is battling with thier inner emotions, trying to decide what they are feeling as well as evaluating what they feel compared to what others are feeling. By the end of the poem, they realize that emotions are what links everyone together and they are making a wish that everyone can unite together to feel this singluar emotion to hopefully heal the world. 
 
-Honestly (or should I say "frankly"? Get it?) I don't usually find the output of this script particularly compelling, but I think it's a good demonstration of some important concepts like working with a library and parts of speech tagging.
-
+I hope you enjoy my poem, Wonder. 
