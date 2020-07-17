@@ -4,4 +4,6 @@ This project is a "screensaver" that I created to replace the classic bouncing D
 
 The purpose of my "screensaver" is for Netflix to use it whenever someone's screen is paused for a certain duration of time. 
 
+Click [here](https://editor.p5js.org/sprice3/sketches/-GxluiSPw) to look at the code on the p5.js web editor! 
+
 The inspiration for this project is the classic [bouncing DVD logo](https://www.youtube.com/watch?v=5mGuCdlCcNM).
