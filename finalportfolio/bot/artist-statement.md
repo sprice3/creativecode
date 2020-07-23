@@ -7,4 +7,4 @@ How I achieved this was by first, adding to the end of the origin sentence, "And
 
 I think this addition to my bot really brought it all together and made the best improvement it could have!
 
-If you ever can't decide what to eat, make sure to check out [@WatShouldUEat]https://twitter.com/WatShouldUEat) on Twitter!
+If you ever can't decide what to eat, make sure to check out [@WatShouldUEat](https://twitter.com/WatShouldUEat) on Twitter!
