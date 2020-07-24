@@ -6,4 +6,4 @@ The first thing I changed was the logo. This time, I went with the Hulu logo. I 
 
 I also decided to take it a step further and try and see if I could change the color of the logo as it hit a wall. 
 
-I think the improvements I made to my screensaver really make it better! If you want to see it, click [here](https://editor.p5js.org/sprice3/full/-GxluiSPw)
+I think the improvements I made to my screensaver really make it better! If you want to see it fullscreen, click [here](https://editor.p5js.org/sprice3/full/-GxluiSPw) and if you want to see it in the editor, click [here](https://editor.p5js.org/sprice3/sketches/-GxluiSPw). 
